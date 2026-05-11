@@ -115,3 +115,8 @@ main {
 .cita {
 	font-size: 2.5rem;
 }
+
+img {
+  display: block;
+  margin: auto;
+}
